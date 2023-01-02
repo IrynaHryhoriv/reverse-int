@@ -26,8 +26,6 @@ function reversedNum(num) {
   console.log(Number(reverse_a_number(32243)));
 
 
-
-
 let number = 123456789;
 
 // Initializing the result variable 
